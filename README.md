@@ -7,7 +7,8 @@ Semantic segmentation, a crucial task in computer vision, often relies on labor-
 
 <br>
 
-![FuseNet](https://github.com/xmindflow/FuseNet/assets/61879630/5da3daef-24f7-4dae-b702-1ba689799b0b)
+![FuseNet](https://github.com/xmindflow/FuseNet/assets/61879630/79338d04-51f2-475d-8c16-eb5b6323a2aa)
+
 <br>
 
 
@@ -30,7 +31,7 @@ Put your input images in the ```input_images/image``` folder and just simply run
 ## Experiments
 
 <p align="center">
-  <img src="https://github.com/xmindflow/FuseNet/assets/61879630/e2216fae-bb73-4dd8-8191-b8300b876d21" width="800">
+  <img src="https://github.com/xmindflow/FuseNet/assets/61879630/c2b95eaf-3840-45b2-aeac-79446bee3e35" width="800">
 </p>
 
 
